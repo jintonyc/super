@@ -1,0 +1,6 @@
+[submodule "aiservice1"]
+	path = aiservice1
+	url = https://github.com/jintonyc/sub1.git
+[submodule "aiservice2"]
+	path = aiservice2
+	url = https://github.com/jintonyc/sub2.git
